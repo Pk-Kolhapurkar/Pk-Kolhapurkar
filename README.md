@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVhd3MybTFtcTdiYWxxdTEzZ25senFoMzJsOWM3aHVoczFveTQ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" /> </p>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Pk-Kolhapurkar&label=Profile%20Views&icon=0&pretty=false" />
-</a>
+
 - 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Data science, Machine learning, NLP**
