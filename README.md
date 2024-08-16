@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Khade</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="center"> 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVhd3MybTFtcTdiYWxxdTEzZ25senFoMzJsOWM3aHVoczFveTQ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="500px" alt="Coding GIF" />
+<p align="left"> 
+  🌱 I’m currently learning **Generative AI**  
+  <br> 💬 Ask me about **Data science, Machine learning, NLP**
 </p>
 
-- 🌱 I’m currently learning **Generative AI**
-
-- 💬 Ask me about **Data science, Machine learning, NLP**
+<p align="right">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVhd3MybTFtcTdiYWxxdTEzZ25senFoMzJsOWM3aHVoczFveTQ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="250px" alt="Coding GIF" />
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -44,24 +45,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pk-kolhapurkar&" alt="Prathamesh Khade's GitHub Streak" />
-</p>
-
-<h3 align="center">⚡ Recent Activity</h3>
-<p align="center">
-  <!-- Add GitHub activity feed or latest blog posts here -->
-</p>
-
-<h3 align="center">🌟 Featured Projects</h3>
-<p align="center">
-  <!-- Add your project links with descriptions and images -->
-</p>
-
-<h3 align="center">📝 Latest Blog Posts</h3>
-<p align="center">
-  <!-- If you have a blog, list recent posts here -->
-</p>
-
-<h3 align="center">📫 Let's Connect!</h3>
-<p align="center">
-  <!-- Add a call to action to reach out to you -->
 </p>
